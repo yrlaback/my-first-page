@@ -1,0 +1,53 @@
+h1{
+    color: #eeaeca;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: inherit;
+    text-align: center;
+    background-color: #94bbe9;
+}
+
+/*this is a test*/
+
+.about-text {
+    color: #32007c;
+    text-align: center;
+    background-color: rgb(182, 196, 126, 0.8);
+}
+
+#about-me {
+    color: #832559;
+    background-color: rgb(182, 196, 126, 0.8);
+}
+
+.picture-info {
+    color: #2b006b;
+    background-color: rgb(182, 196, 126, 0.8);
+}
+
+.cv {
+    color: #6f00ff;
+    font-style: normal;
+    text-align: center;
+    list-style-position: inside;
+    background-color: rgb(182, 196, 126, 0.8);
+}
+
+body {
+    background-image: url(../images/moln.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #B497DB;
+}
+
+h4 {
+    color: #6F6B44;
+}
