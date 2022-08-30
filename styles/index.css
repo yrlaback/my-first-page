@@ -1,3 +1,12 @@
+body {
+    background-image: url(../images/moln.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
 h1{
     color: #eeaeca;
     font-size: 40px;
@@ -37,15 +46,6 @@ img {
     color: #6f00ff;
     font-style: normal;
     background-color: rgb(182, 196, 126, 0.8);
-}
-
-body {
-    background-image: url(../images/moln.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    height: 200vh;
 }
 
 h4 {
