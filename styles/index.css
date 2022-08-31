@@ -29,15 +29,13 @@ div {
     width: 500px;
     padding: 10px;
     margin: 20px;
-    border: 5px solid rgb(54, 0, 30, 0.8);
-    border-radius: 8px;
+    border: 10px inset rgba(151, 0, 83, 0.6);
   }
 
 img {
-    border-width: 7px;
-    border-style: solid;
-    border-color: #B497DB;
-    border-radius: 8px;
+    border-width: 10px;
+    border-style: outset;
+    border-color: rgb(151, 0, 83, 0.6);
 }
 
 .picture-info {
