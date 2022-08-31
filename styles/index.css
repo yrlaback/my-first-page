@@ -16,7 +16,7 @@ h1{
     background-color: rgba(83, 206, 255, 0.8);
     border-radius: 8px;
     width: 400px;
-    margin: auto
+    margin: 0 auto;
 }
 
 /*this is a test*/
@@ -29,6 +29,7 @@ h1{
     padding: 10px;
     margin: 20px;
     border: 10px outset rgba(99, 224, 210, 0.6);
+
 }
 
 div {
