@@ -34,15 +34,17 @@ h1{
 div {
     background-color: rgb(153, 0, 255, 0.8);
     width: 500px;
-    border: 5px solid rgb(54, 0, 30, 0.8);
     padding: 10px;
     margin: 20px;
+    border: 5px solid rgb(54, 0, 30, 0.8);
+    border-radius: 8px;
   }
 
 img {
     border-width: 7px;
     border-style: solid;
     border-color: #B497DB;
+    border-radius: 8px;
 }
 
 .picture-info {
