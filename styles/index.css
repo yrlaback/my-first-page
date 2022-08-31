@@ -31,6 +31,14 @@ h1{
     background-color: rgb(182, 196, 126, 0.8);
 }
 
+div {
+    background-color: #9900ff;
+    width: 500px;
+    border: 5px solid #36001e;
+    padding: 10px;
+    margin: 20px;
+  }
+
 img {
     border-width: 7px;
     border-style: solid;
