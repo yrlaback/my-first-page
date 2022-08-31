@@ -13,7 +13,10 @@ h1{
     font-weight: 300;
     font-style: inherit;
     text-align: center;
-    background-color: #94bbe9;
+    background-color: rgba(83, 206, 255, 0.8);
+    border-radius: 8px;
+    width: 400px;
+    margin: auto
 }
 
 /*this is a test*/
